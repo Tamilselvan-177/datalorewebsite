@@ -7,7 +7,7 @@ const Footer = () => {
   const socialLinks = [
     { 
       icon: <LinkedIn />, 
-      url: 'https://linkedin.com/company/datalore25-tech-conference',
+      url: 'https://www.linkedin.com/company/arqclubrec/',
       label: 'Connect with us on LinkedIn'
     },
     { 
