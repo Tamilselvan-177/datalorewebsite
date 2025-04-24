@@ -14,6 +14,7 @@ const Events = () => {
   const getStudentPhone = (studentName) => {
     const phoneNumbers = {
       'BuvanKalyan': '+91 9345386174',
+      'Swetha P':'+918610291571',
       'Harshini MD': '+91 8610293643',
       'Maiyazhagan V': '+91 7358635698',
       'Vaishnavi S': '+91 9876543213',
@@ -58,7 +59,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Mrs.P.Jayasri Archana Devi'],
-        students: ['BuvanKalyan', 'Harshini MD']
+        students: ['BuvanKalyan', 'Harshini MD','Swetha P']
       }
     },
     {
