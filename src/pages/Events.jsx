@@ -14,8 +14,8 @@ const Events = () => {
   const getStudentPhone = (studentName) => {
     const phoneNumbers = {
       'BuvanKalyan': '+91 9345386174',
-      'Harshini MD': '+91 9876543211',
-      'Maiyazhagan V': '+91 9876543212',
+      'Harshini MD': '+91 8610293643',
+      'Maiyazhagan V': '+91 7358635698',
       'Vaishnavi S': '+91 9876543213',
       'Yashwanth P': '+91 9876543214',
       'Thejas KS': '+91 9876543215',
@@ -255,7 +255,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Workshop Coordinator'],
-        students: ['Workshop Lead 1', 'Workshop Lead 2']
+        students: ['Keerthika P', 'Kaviya S']
       }
     }
   ];
