@@ -22,7 +22,7 @@ const About = () => {
     },
     {
       name: "Dr. S.Suresh Kumar",
-      role: "Associate Professor",
+      role: "Professor",
       department: "Artificial Intelligence and Data Science",
       image: "/assets/images/suresh kumar.jpg",
       expertise: []
