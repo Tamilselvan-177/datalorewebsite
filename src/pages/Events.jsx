@@ -24,7 +24,10 @@ const Events = () => {
       'Nithish S': '+91 9876543218',
       'Praveen B': '+91 9876543219',
       'R Sai Narayanan': '+91 9876543220',
-      'M Thofiq Gani': '+91 9876543221'
+      'M Thofiq Gani': '+91 9876543221',
+      'Keerthika P' : '+91 7358227940',
+      'Kaviya S': '+91 9025666527'
+
     };
     return phoneNumbers[studentName] || 'Contact number not available';
   };
