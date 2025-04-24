@@ -49,14 +49,7 @@ const Events = () => {
         second: '₹1,000'
       },
       description: 'Welcome to Prompt Craft 2025, an immersive competition designed to challenge participants in mastering the art of prompt engineering! Over two intense rounds, participants will demonstrate their expertise in crafting precise, creative, and optimized prompts for AI models. Round 1 focuses on basic prompt engineering techniques and optimization, while Round 2 challenges participants with complex scenarios requiring advanced prompt chaining and context manipulation. Winners will be judged on prompt effectiveness, creativity, and practical applicability.',
-      highlights: [
-        'Two challenging rounds with increasing complexity',
-        'Hands-on experience with latest AI models',
-        'Real-world problem-solving scenarios',
-        'Expert mentorship and guidance',
-        'Valuable feedback from industry professionals',
-        'Networking opportunities with AI enthusiasts'
-      ],
+      highlights: [],
       coordinators: {
         staff: ['Mrs.P.Jayasri Archana Devi'],
         students: ['BuvanKalyan', 'Harshini MD','Swetha P']
