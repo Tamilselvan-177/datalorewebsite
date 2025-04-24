@@ -154,7 +154,7 @@ const ContactAndFAQ = () => {
   const faqs = [
     {
       question: "What is the date and venue of DATALORE?",
-      answer: "DATALORE will be held on April 16th, 2025 at Rajalakshmi Engineering College, Chennai."
+      answer: "DATALORE will be held on April 28th, 2025 at Rajalakshmi Engineering College, Chennai."
     },
     {
       question: "Who can attend DATALORE?",
