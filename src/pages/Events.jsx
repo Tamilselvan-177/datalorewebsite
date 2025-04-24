@@ -13,7 +13,7 @@ const Events = () => {
   // Function to get student coordinator phone numbers
   const getStudentPhone = (studentName) => {
     const phoneNumbers = {
-      'BhuvanKalyan': '+91 9876543210',
+      'BuvanKalyan': '+91 9345386174',
       'Harshini MD': '+91 9876543211',
       'Maiyazhagan V': '+91 9876543212',
       'Vaishnavi S': '+91 9876543213',
@@ -42,7 +42,7 @@ const Events = () => {
       actualTime: '12:20pm To 2:20pm',
       prizePool: {
         first: '₹1,500',
-        second: '₹1,000'
+        second: '₹1,000'3
       },
       description: 'Welcome to Prompt Craft 2025, an immersive competition designed to challenge participants in mastering the art of prompt engineering! Over two intense rounds, participants will demonstrate their expertise in crafting precise, creative, and optimized prompts for AI models. Round 1 focuses on basic prompt engineering techniques and optimization, while Round 2 challenges participants with complex scenarios requiring advanced prompt chaining and context manipulation. Winners will be judged on prompt effectiveness, creativity, and practical applicability.',
       highlights: [
