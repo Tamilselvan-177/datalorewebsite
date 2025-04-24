@@ -72,12 +72,7 @@ const Events = () => {
       },
       description: 'Design Sphere is an intensive UI/UX design competition that challenges participants to create innovative, user-centric digital experiences. In Round 1, teams will redesign a given interface focusing on usability and aesthetic appeal. Round 2 presents a complex design challenge where participants must create a complete design system including wireframes, prototypes, and user journey maps. The competition emphasizes modern design principles, accessibility standards, and real-world applicability.',
       highlights: [
-        'Comprehensive UI/UX design challenges',
-        'Industry-standard tool utilization',
-        'User research and persona creation',
-        'Interactive prototyping',
-        'Professional design critique sessions',
-        'Portfolio-worthy project opportunities'
+    
       ],
       coordinators: {
         staff: ['Mrs.A.Mariya Monica Celestir'],
@@ -101,12 +96,7 @@ const Events = () => {
       },
       description: 'Pitch or Pass is an exhilarating investment challenge where participants step into the shoes of venture capitalists. Teams will receive comprehensive financial datasets, market analysis reports, and company profiles. They must conduct thorough analysis, develop investment strategies, and create compelling investment proposals. The final round involves presenting their investment thesis to a panel of experienced investors and defending their decisions through detailed Q&A sessions.',
       highlights: [
-        'Real-world financial data analysis',
-        'Market research and trend analysis',
-        'Risk assessment techniques',
-        'Investment portfolio optimization',
-        'Professional pitch deck creation',
-        'Live Q&A with industry experts'
+  
       ],
       coordinators: {
         staff: ['Mr.P.Preejith', 'Mrs.S.Renuka Devi'],
@@ -130,12 +120,7 @@ const Events = () => {
       },
       description: 'The Quest for Innovation is an intensive case study competition that challenges participants to solve real-world business and technology problems. Teams will receive detailed case studies from leading companies, requiring them to analyze complex scenarios, identify key challenges, and propose innovative solutions. The competition tests participants\'s analytical thinking, problem-solving abilities, and strategic planning skills.',
       highlights: [
-        'Real industry case analysis',
-        'Strategic problem-solving',
-        'Business model innovation',
-        'Technology integration planning',
-        'Professional presentation skills',
-        'Feedback from industry leaders'
+   
       ],
       coordinators: {
         staff: ['Dr.V.Sampath Kumar', 'Mr.G.Thiyagarajan'],
@@ -159,12 +144,7 @@ const Events = () => {
       },
       description: 'Insight is a premier project showcase event where participants present their innovative AI and Data Science projects. This platform allows students to demonstrate their technical expertise, creativity, and problem-solving abilities through practical applications. Projects will be evaluated based on innovation, technical complexity, practical impact, and presentation quality. Selected projects will receive mentorship opportunities and potential industry collaboration prospects.',
       highlights: [
-        'Live project demonstrations',
-        'Technical deep-dive sessions',
-        'Innovation assessment',
-        'Industry mentor feedback',
-        'Networking opportunities',
-        'Publication opportunities'
+   
       ],
       coordinators: {
         staff: ['Dr. J. Manoranjini', 'Dr. A. Beulah'],
@@ -188,12 +168,7 @@ const Events = () => {
       },
       description: 'Code Heist is an immersive coding challenge that puts participants in the role of ethical hackers. Through three progressively challenging rounds, participants must navigate a simulated high-security system, combining coding skills with strategic thinking. Round 1 focuses on basic system penetration, Round 2 involves advanced encryption challenges, and the final round tests participants\' ability to execute a complete system infiltration while maintaining stealth.',
       highlights: [
-        'Progressive difficulty levels',
-        'Advanced encryption challenges',
-        'System security analysis',
-        'Code optimization tasks',
-        'Real-time monitoring evasion',
-        'Strategic resource management'
+       
       ],
       coordinators: {
         staff: ['Ms Selvarani'],
@@ -218,12 +193,7 @@ const Events = () => {
       },
       description: 'Papervez is an academic paper presentation competition where teams of 1-3 members present their research work in emerging technologies. Participants will showcase their research findings, methodologies, and conclusions through professional presentations.',
       highlights: [
-        'Research presentation',
-        'Technical paper writing',
-        'Academic discussion',
-        'Professional feedback',
-        'Publication opportunities',
-        'Networking with researchers'
+ 
       ],
       coordinators: {
         staff: ['Dr. Research Coordinator'],
@@ -243,12 +213,7 @@ const Events = () => {
       actualTime: '9:45 - 11:45',
       description: 'A comprehensive technical workshop focusing on cutting-edge technologies and industry practices. Participants will gain hands-on experience with the latest tools and frameworks while learning from industry experts.',
       highlights: [
-        'Hands-on training',
-        'Industry expert sessions',
-        'Interactive learning',
-        'Practical exercises',
-        'Take-home resources',
-        'Certificate of completion'
+    
       ],
       coordinators: {
         staff: ['Workshop Coordinator'],
