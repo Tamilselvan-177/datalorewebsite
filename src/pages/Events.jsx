@@ -58,7 +58,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Mrs.P.Jayasri Archana Devi'],
-        students: ['BhuvanKalyan', 'Harshini MD']
+        students: ['BuvanKalyan', 'Harshini MD']
       }
     },
     {
