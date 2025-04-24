@@ -17,15 +17,22 @@ const Events = () => {
       'Swetha P':'+918610291571',
       'Harshini MD': '+91 8610293643',
       'Maiyazhagan V': '+91 7358635698',
-      'Vaishnavi S': '+91 9876543213',
-      'Yashwanth P': '+91 9876543214',
-      'Thejas KS': '+91 9876543215',
-      'Vijay Kumar V': '+91 9876543216',
-      'Devika C': '+91 9876543217',
-      'Nithish S': '+91 9876543218',
-      'Praveen B': '+91 9876543219',
-      'R Sai Narayanan': '+91 9876543220',
-      'M Thofiq Gani': '+91 9876543221',
+      'Vaishnavi S': '+91 7358618545',
+      'Shanmugashree M':'+91 6369872867',
+      'Yaswanth P': '+91 6380640132',
+      'Thejas K S': '+91 9361843839',
+      'Poongavin B':'+91 9342596669',
+      'Vijay Kumar': '+91 9884965265',
+      'Charless Binny K':'+91 9976870290',
+      'Devika': '+91 6380501822',
+      'Santhosh B':'+91 9884951432',
+      'Nithish S': '+91 9940200316',
+      'Harshitha R','+91 99628 21114',
+      'Praveen.B': '+91 8925385701',
+      'Sai Narayan R': '+91 7358423825',
+      'Sandhya J':'+91 6382910028',
+      'Nikilesh':'+91 6379106390',
+      'Thofiq Gani M': '+91 9342169652',
       'Keerthika P' : '+91 7358227940',
       'Kaviya S': '+91 9025666527'
 
@@ -76,7 +83,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Mrs.A.Mariya Monica Celestir'],
-        students: ['Maiyazhagan V', 'Vaishnavi S']
+        students: ['Maiyazhagan V', 'Vaishnavi S','Shanmugashree M']
       }
     },
     {
@@ -100,7 +107,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Mr.P.Preejith', 'Mrs.S.Renuka Devi'],
-        students: ['Yashwanth P', 'Thejas KS']
+        students: ['Yashwanth P', 'Thejas KS','Poongavin B']
       }
     },
     {
@@ -124,7 +131,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Dr.V.Sampath Kumar', 'Mr.G.Thiyagarajan'],
-        students: ['Vijay Kumar V', 'Devika C']
+        students: ['Vijay Kumar V', 'Devika C','Charless Binny K']
       }
     },
     {
@@ -148,7 +155,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Dr. J. Manoranjini', 'Dr. A. Beulah'],
-        students: ['Nithish S', 'Praveen B']
+        students: ['Nithish S', 'Praveen B','Nikilesh']
       }
     },
     {
@@ -172,7 +179,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Ms Selvarani'],
-        students: ['R Sai Narayanan', 'M Thofiq Gani']
+        students: ['Sai Narayanan R', 'Thofiq Gani M','Sandhya J']
       }
     },
     {
@@ -197,7 +204,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Dr. Research Coordinator'],
-        students: ['Research Lead 1', 'Research Lead 2']
+        students: ['Santhosh B', 'Harshitha R']
       }
     },
     {
