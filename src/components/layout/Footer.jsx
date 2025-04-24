@@ -26,16 +26,11 @@ const Footer = () => {
     About: [
       { title: 'About Us', path: '/about' },
       { title: 'Our Team', path: '/about#faculty-coordinators' },
-      { title: 'Careers', path: '/careers' },
       { title: 'Contact Us', path: '/contact' },
-      { title: 'Partner With Us', path: '/partnership' }
     ],
     Support: [
       { title: 'FAQs', path: '/contact' }, // Updated path to point to combined page
-      { title: 'Help Center', path: '/help' },
       { title: 'Registration', path: '/register' },
-      { title: 'Sponsorship', path: '/sponsors' },
-      { title: 'Technical Support', path: '/support' }
     ]
   };
 
