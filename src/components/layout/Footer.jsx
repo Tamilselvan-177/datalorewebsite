@@ -17,7 +17,7 @@ const Footer = () => {
     },
     { 
       icon: <WhatsApp/>, 
-      url: 'https://wa.me/9789096777',
+      url: 'https://wa.me/+919789096777',
       label: 'Join our community on WhatsApp'
     }
   ];
