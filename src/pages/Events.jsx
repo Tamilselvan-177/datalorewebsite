@@ -27,7 +27,7 @@ const Events = () => {
       'Devika': '+91 6380501822',
       'Santhosh B':'+91 9884951432',
       'Nithish S': '+91 9940200316',
-      'Harshitha R','+91 99628 21114',
+      'Harshitha R':'+91 99628 21114',
       'Praveen.B': '+91 8925385701',
       'Sai Narayan R': '+91 7358423825',
       'Sandhya J':'+91 6382910028',
