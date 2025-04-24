@@ -86,7 +86,6 @@ const CountdownTimer = () => {
                     display: 'flex',
                     flexDirection: 'column',
                     alignItems: 'center',
-                    flexDirection: 'column',
                     justifyContent: 'center',
                     mx: 'auto',
                     textAlign: 'center',

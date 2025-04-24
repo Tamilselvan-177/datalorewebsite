@@ -878,7 +878,6 @@ const EventsSection = ({ events, scrollRef, handleMouseEnter, handleMouseLeave, 
                 },
                 margin: '0 20px',
                 transform: 'translateY(-5px) scale(1.02) rotateX(10deg)',
-                boxShadow: '0 20px 60px rgba(156, 39, 176, 0.4)',
                 '&::before': {
                   left: '100%',
                 },
