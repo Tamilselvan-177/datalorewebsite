@@ -34,7 +34,7 @@ const Events = () => {
       'Nikilesh':'+91 6379106390',
       'Thofiq Gani M': '+91 9342169652',
       'Keerthika P' : '+91 7358227940',
-      'Kaviya S': '+91 9025666527'
+      'Kaviya S': '+91 9025666527'
 
     };
     return phoneNumbers[studentName] || 'Contact number not available';
