@@ -29,7 +29,7 @@ const Events = () => {
       'Nithish S': '+91 9940200316',
       'Harshitha R':'+91 99628 21114',
       'Praveen B': '+91 8925385701',
-      'Sai Narayanan R': '+91 7358423825',
+      'Sai Narayan R': '+91 7358423825',
       'Sandhya J':'+91 6382910028',
       'Nikilesh':'+91 6379106390',
       'Thofiq Gani M': '+91 9342169652',
@@ -179,7 +179,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Ms Selvarani'],
-        students: ['Sai Narayanan R', 'Thofiq Gani M','Sandhya J']
+        students: ['Sai Narayan R', 'Thofiq Gani M','Sandhya J']
       }
     },
     {
