@@ -91,11 +91,11 @@ const Events = () => {
       title: 'Pitch or Pass',
       category: 'Investment Challenge',
       image: '/event_photo/pitchorpass.jpeg', // Finance/investment themed image
-      time: '2 hours',
+      time: '3 hours',
       venue: 'Idea Lab (StartUp HQ)',
       capacity: 30,
       slot: 'I',
-      actualTime: '9:45am To 11:45am',
+      actualTime: '9:45am To 12:45am',
       teamSize: '1-3',
       prizePool: {
         first: '₹1,500',
@@ -218,7 +218,7 @@ const Events = () => {
   "capacity": 100,
   "slot": "I",
   "actualTime": "9:45 - 11:45",
-  "description": "**Join us to Unlock Your Financial Potential** 📈\n\nA finance-based workshop designed to provide a comprehensive understanding of core financial principles, strategic investment approaches, and practical business models will be conducted by an expertised person. This session will cover a wide range of essential topics including stocks, shares, bonds, VCs, company valuation, financial analysis, cashflow management, and debt. This interactive session blends theory with real-world relevance, helping you see how finance, investment, and business models interconnect to drive innovation and economic impact.",
+  "description": "Join us to Unlock Your Financial Potential.A finance-based workshop designed to provide a comprehensive understanding of core financial principles, strategic investment approaches, and practical business models will be conducted by an expertised person. This session will cover a wide range of essential topics including stocks, shares, bonds, VCs, company valuation, financial analysis, cashflow management, and debt. This interactive session blends theory with real-world relevance, helping you see how finance, investment, and business models interconnect to drive innovation and economic impact.",
   "highlights": [],
   "coordinators": {
     "staff": ["Ms.Nirmala Annadhi"],
