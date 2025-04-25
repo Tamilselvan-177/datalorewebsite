@@ -209,8 +209,8 @@ const Events = () => {
     },
     {
      "id": 8,
-  "title": "Workshop",
-  "category": "Technical Workshop",
+  "title": "Finance Workshop",
+  "category": "Finance Workshop",
   "image": "/event_photo/workshop.jpeg",
   "date": "2025",
   "time": "2 hours",
