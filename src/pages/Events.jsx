@@ -22,14 +22,14 @@ const Events = () => {
       'Yaswanth P': '+91 6380640132',
       'Thejas K S': '+91 9361843839',
       'Poongavin B':'+91 9342596669',
-      'Vijay Kumar': '+91 9884965265',
+      'Vijay Kumar V': '+91 9884965265',
       'Charless Binny K':'+91 9976870290',
-      'Devika': '+91 6380501822',
+      'Devika C': '+91 6380501822',
       'Santhosh B':'+91 9884951432',
       'Nithish S': '+91 9940200316',
       'Harshitha R':'+91 99628 21114',
-      'Praveen.B': '+91 8925385701',
-      'Sai Narayan R': '+91 7358423825',
+      'Praveen B': '+91 8925385701',
+      'Sai Narayanan R': '+91 7358423825',
       'Sandhya J':'+91 6382910028',
       'Nikilesh':'+91 6379106390',
       'Thofiq Gani M': '+91 9342169652',
@@ -107,7 +107,7 @@ const Events = () => {
       ],
       coordinators: {
         staff: ['Mr.P.Preejith', 'Mrs.S.Renuka Devi'],
-        students: ['Yashwanth P', 'Thejas KS','Poongavin B']
+        students: ['Yaswanth P', 'Thejas K S','Poongavin B']
       }
     },
     {
