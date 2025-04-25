@@ -47,7 +47,7 @@ const Events = () => {
       category: 'Competition',
       image: '/event_photo/promptcraft.jpeg', // AI/ML themed image
       time: '2 hours',
-      venue: 'KS01',
+      venue: 'Tech Lounge (TLFL01)',
       capacity: 50,
       slot: 'II',
       actualTime: '12:20pm To 2:20pm',
@@ -68,7 +68,7 @@ const Events = () => {
       category: 'Design Competition',
       image: '/event_photo/uxplore.jpeg', // UI/UX design themed image
       time: '2 hours',
-      venue: 'Conference Hall',
+      venue: 'Idea Lab(KFR02)',
       capacity: 30,
       slot: 'II',
       actualTime: '12:20pm To 2:20pm',
@@ -92,7 +92,7 @@ const Events = () => {
       category: 'Investment Challenge',
       image: '/event_photo/pitchorpass.jpeg', // Finance/investment themed image
       time: '2 hours',
-      venue: 'Idea Lab(KFR02)',
+      venue: 'Idea Lab (StartUp HQ)',
       capacity: 30,
       slot: 'I',
       actualTime: '9:45am To 11:45am',
@@ -116,7 +116,7 @@ const Events = () => {
       category: 'Case Analysis',
       image: '/event_photo/theinnovationquest.jpeg', // Business case study themed image
       time: '2 hours',
-      venue: 'Tech Lounge',
+      venue: 'Conference Hall',
       capacity: 45,
       slot: 'II',
       actualTime: '12:20pm To 2:20pm',
@@ -140,7 +140,7 @@ const Events = () => {
       category: 'Project Showcase',
       image: '/event_photo/insight.jpeg', // Project presentation themed image
       time: '2 hours',
-      venue: 'Conference Hall',
+      venue: 'KS01',
       capacity: 75,
       slot: 'II',
       actualTime: '12:20pm To 2:20pm',
@@ -189,7 +189,7 @@ const Events = () => {
       image: '/event_photo/papervez.jpeg', // Academic research themed image
       date: '2025',
       time: '2 hours',
-      venue: 'Purple Hall',
+      venue: 'KS01',
       capacity: 45,
       slot: 'I',
       actualTime: '9:45 - 11:45',
@@ -214,7 +214,7 @@ const Events = () => {
       image: '/event_photo/workshop.jpeg', // Workshop/learning themed image
       date: '2025',
       time: '2 hours',
-      venue: 'Main Seminar Hall',
+      venue: 'Conference Hall',
       capacity: 100,
       slot: 'I',
       actualTime: '9:45 - 11:45',
