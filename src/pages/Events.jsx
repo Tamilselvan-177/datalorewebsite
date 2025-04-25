@@ -208,23 +208,21 @@ const Events = () => {
       }
     },
     {
-      id: 8,
-      title: 'Workshop',
-      category: 'Technical Workshop',
-      image: '/event_photo/workshop.jpeg', // Workshop/learning themed image
-      date: '2025',
-      time: '2 hours',
-      venue: 'Conference Hall',
-      capacity: 100,
-      slot: 'I',
-      actualTime: '9:45 - 11:45',
-      description: 'A comprehensive technical workshop focusing on cutting-edge technologies and industry practices. Participants will gain hands-on experience with the latest tools and frameworks while learning from industry experts.',
-      highlights: [
-    
-      ],
-      coordinators: {
-        staff: ['Ms.Nirmala Annadhi'],
-        students: ['Keerthika P', 'Kaviya S']
+     "id": 8,
+  "title": "Workshop",
+  "category": "Technical Workshop",
+  "image": "/event_photo/workshop.jpeg",
+  "date": "2025",
+  "time": "2 hours",
+  "venue": "Conference Hall",
+  "capacity": 100,
+  "slot": "I",
+  "actualTime": "9:45 - 11:45",
+  "description": "**Join us to Unlock Your Financial Potential** 📈\n\nA finance-based workshop designed to provide a comprehensive understanding of core financial principles, strategic investment approaches, and practical business models will be conducted by an expertised person. This session will cover a wide range of essential topics including stocks, shares, bonds, VCs, company valuation, financial analysis, cashflow management, and debt. This interactive session blends theory with real-world relevance, helping you see how finance, investment, and business models interconnect to drive innovation and economic impact.",
+  "highlights": [],
+  "coordinators": {
+    "staff": ["Ms.Nirmala Annadhi"],
+    "students": ["Keerthika P", "Kaviya S"]
       }
     }
   ];
