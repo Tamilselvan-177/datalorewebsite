@@ -203,7 +203,7 @@ const Events = () => {
  
       ],
       coordinators: {
-        staff: ['Dr. Research Coordinator'],
+        staff: ['Dr.Sorna Shanthi D ','Dr.Saravana Kumar V'],
         students: ['Santhosh B', 'Harshitha R']
       }
     },
@@ -223,7 +223,7 @@ const Events = () => {
     
       ],
       coordinators: {
-        staff: ['Workshop Coordinator'],
+        staff: ['Ms.Nirmala Annadhi'],
         students: ['Keerthika P', 'Kaviya S']
       }
     }
