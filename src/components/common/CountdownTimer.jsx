@@ -75,7 +75,7 @@ const CountdownTimer = () => {
               textShadow: '0 2px 4px rgba(0, 0, 0, 0.2)'
             }}
           >
-            Event Begins In
+            Registration Closes In
           </Typography>
 
           <Grid container spacing={{ xs: 4, sm: 5 }} justifyContent="center" sx={{ maxWidth: '100%', mx: 'auto', px: { xs: 1.5, sm: 2.5 } }}>
