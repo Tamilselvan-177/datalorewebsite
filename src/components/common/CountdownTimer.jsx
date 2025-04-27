@@ -75,7 +75,7 @@ const CountdownTimer = () => {
               textShadow: '0 2px 4px rgba(0, 0, 0, 0.2)'
             }}
           >
-            Registration Closes In
+            Registration Closed
           </Typography>
 
           <Grid container spacing={{ xs: 4, sm: 5 }} justifyContent="center" sx={{ maxWidth: '100%', mx: 'auto', px: { xs: 1.5, sm: 2.5 } }}>
