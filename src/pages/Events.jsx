@@ -598,7 +598,7 @@ const Events = () => {
                         size="large"
                         fullWidth
                       >
-                        Register Now
+                          Registration closed
                       </Button>
                       <Button
                         variant="outlined"
