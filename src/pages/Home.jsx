@@ -897,7 +897,7 @@ const EventsSection = ({ events, scrollRef, handleMouseEnter, handleMouseLeave, 
               }
             }
           >
-            Register Now
+                Registration closed
           </Button>
         </Box>
       </Box>
